@@ -12,6 +12,7 @@ main {
     background-repeat: no-repeat;
     background-attachment: fixed;
     flex: 1;
+    padding-bottom: 100px;
 }
 
 header {
