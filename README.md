@@ -1,5 +1,5 @@
 # Project1BWNSJA
-CS246 Project 1 with Bobby W. Noah S., and John A.
+CS246 Project 1 with Bobby W., Noah S., and John A.
 
 ## Noah
 ### Reflection
@@ -14,5 +14,6 @@ I'm not really aware of any bugs with the page as of right now. We did encounter
 
 ## Bobby
 ### Reflection
-
+Overall the project went fairly smoothy, we only met 2 times, but those times were very productive. I enjoyed coming up with most of the general page layouts and a lot of the CSS with Noah and John's input, it was very useful for making the pages look and operate nicely. I would have liked to add more to my page, like some of the statistics that are on the organizations actual page. 
 ### Bugs
+None known. I ran into some issues with getting the background and main element to line up properly, but I eventually got it figured out.
